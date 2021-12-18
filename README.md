@@ -1,0 +1,2 @@
+# APTOS-2019-Blindness-Detection
+Millions of people suffer from diabetic retinopathy, the leading cause of blindness among working aged adults. The objective of this task is to train a neural network that can detect blindness before it happens. This model can be used to assist the doctors resulting in speeding up the medical analysis of patients. The data was provided by the Aravind Eye Hospital in India which is available on Kaggle.
